@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.623,C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\hp\OneDrive\Masaüstü\Project_DLL\ProjectExe_Run.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.563,C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\hp\OneDrive\Masaüstü\Project_DLL\UnitRUNN.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.563,C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\hp\OneDrive\Masaüstü\Project_DLL\UnitRUNN.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
